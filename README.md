@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about programming, continuous learn
 - 💡 I enjoy learning new technologies and improving my coding skills.
 - 🔭 I’m currently working on **Java-based projects** and building my portfolio.
 - 🌱 Currently learning **HTML, CSS, JavaScript**, and **object-oriented programming**.
-- 📫 Reach me at: [your.email@example.com]
+- 📫 Reach me at: ctingson_250000001177@uic.edu.ph
 
 ---
 
