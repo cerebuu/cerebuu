@@ -1,48 +1,76 @@
-# 👋 Hello, I'm Caleb!
+# 👋 Hi, I'm Caleb Adriel Tingson!
 
-Welcome to my GitHub profile! I'm passionate about programming, continuous learning, and building creative solutions through code. Currently exploring more about Java, web development, and software engineering practices.
+Welcome to my GitHub! I'm a Computer Science student from the University of the Immaculate Conception (UIC) who enjoys building software, solving problems, and continuously learning new technologies. I'm passionate about software development, web technologies, and creating projects that make a real impact.
 
 ---
 
 ## 🚀 About Me
-- 🎓 I'm a student with a strong interest in tech and software development.
-- 💡 I enjoy learning new technologies and improving my coding skills.
-- 🔭 I’m currently working on **Java-based projects** and building my portfolio.
-- 🌱 Currently learning **HTML, CSS, JavaScript**, and **object-oriented programming**.
-- 📫 Reach me at: ctingson_250000001177@uic.edu.ph
+
+- 🎓 Computer Science student at the **University of the Immaculate Conception (UIC)**.
+- 💻 Passionate about **Software Development, Java Programming, and Web Development**.
+- 🌱 Currently learning **HTML, CSS, JavaScript, Git, GitHub, and Object-Oriented Programming**.
+- 🚀 Building personal projects to strengthen my software engineering skills and expand my portfolio.
+- 👨‍💻 Developed a **CRUD-based Web Management System** with my team for the **Google Developer Groups on Campus (GDG on Campus)** using modern web development technologies.
+- 🏆 Participant in the **Quantum Computing and Cybersecurity Capture the Flag (CTF) Hackathon**, where I collaborated with a team to solve challenges involving cybersecurity, cryptography, and quantum computing concepts.
+- 📚 Always eager to learn new technologies and contribute to meaningful projects.
+- 🤝 Open to collaboration on open-source projects, hackathons, and software development opportunities.
 
 ---
 
-## 🛠️ Languages and Tools
+## 💡 What I'm Currently Working On
 
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-## 📊 GitHub Stats
-
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+- ☕ Java Projects
+- 🌐 Full-Stack Web Development
+- 📱 Building Portfolio Projects
+- 📖 Learning Software Engineering Best Practices
+- 🔧 Improving Git & GitHub Workflow
 
 ---
 
-## 📂 Projects Showcase
+## 🛠️ Tech Stack
 
-Here are some repositories I'm proud of:
-- 🔢 [Grading System in Java](https://github.com/your-github-username/grading-system)
-- 📘 [Student Average Calculator](https://github.com/your-github-username/average-calculator)
-- 🖥️ [Simple Array Handling](https://github.com/your-github-username/array-demo)
+### Languages
+- Java
+- HTML5
+- CSS3
+- JavaScript
+
+### Tools & Technologies
+- Git
+- GitHub
+- Visual Studio Code
+- MySQL
+- CRUD Operations
+- Responsive Web Design
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Experience
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
-- 📨 [Email](mailto:your.email@example.com)
+### 💻 GDG on Campus Project
+- Collaborated with a development team to build a **CRUD-based management system**.
+- Participated in planning, development, testing, and improving system functionality.
+- Applied software development principles and version control using Git.
 
-Thanks for visiting! 🙌
+### 🚩 Quantum Computing & Cybersecurity Capture the Flag (CTF)
+- Competed in a hackathon focused on **Quantum Computing and Cybersecurity**.
+- Solved challenges related to cryptography, cybersecurity, and problem-solving.
+- Strengthened teamwork, analytical thinking, and technical skills under time constraints.
+
+---
+
+## 📈 Goals
+
+- Become a Full-Stack Software Engineer
+- Contribute to Open Source Projects
+- Build Real-World Applications
+- Continue Participating in Hackathons
+- Continuously Learn New Technologies
+
+---
+
+## 📫 Contact
+
+📧 **Email:** ctingson_250000001177@uic.edu.ph
+
+Let's connect and build something amazing together! 🚀
