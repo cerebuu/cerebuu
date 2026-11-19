@@ -1,48 +1,49 @@
-<div align="center">
+# Caleb Adriel M. Tingson
 
-<a href="https://github.com/cerebuu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+cerebuu;Welcome+to+my+GitHub;Always+building+something" alt="Typing SVG" />
-</a>
+**Software Developer · Computer Science Student · GDG on Campus UIC Lead**
 
-<p>
-  <a href="https://github.com/cerebuu"><img src="https://img.shields.io/badge/GitHub-cerebuu-181717?style=for-the-badge&logo=github" /></a>
-</p>
+Davao City, Philippines · [Portfolio](https://cerebuu.github.io/) · [LinkedIn](https://www.linkedin.com/in/calebtingson/)
 
-</div>
+---
 
-### About me
+## About
 
-- 🔭 Currently working on: *(fill in)*
-- 🌱 Learning: *(fill in)*
-- 💬 Ask me about: *(fill in)*
-- 📫 Reach me: *(fill in)*
+I'm a Computer Science student at the **University of the Immaculate Conception (UIC)** in Davao City, Philippines. I build user-focused software, from responsive web applications to desktop management systems, with an interest in practical AI, algorithms, and accessible design.
 
-<br>
+Beyond development, I lead **Google Developer Groups on Campus at UIC**, helping students explore technologies, collaborate, and grow through community events.
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cerebuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="cerebuu's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerebuu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+## Selected projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerebuu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+| Project | Overview | Technologies |
+| --- | --- | --- |
+| **[GAW — Grab A Work](https://github.com/cerebuu/pixel-perfect)** | Prototype of a Davao-focused platform for discovering and hiring local skilled workers, with location-based discovery, booking flows, and role-specific experiences. | React, TypeScript, Tailwind CSS, Leaflet |
+| **[School Clinic Management System](https://github.com/cerebuu/SchoolClinicSystem)** | Desktop application for clinical workflows, including patient records, consultations, inventory, role-based access, and reporting. | Java, Swing, H2, MySQL |
+| **[Bisaya Crop Doctor](https://github.com/cerebuu/hello-gdg)** | Hackathon prototype that explores AI-assisted crop guidance in Bisaya and Filipino, with clearly identified demonstration cases. | React, Express, Gemini API |
+| **[Interactive Portfolio](https://github.com/cerebuu/cerebuu.github.io)** | Interactive personal portfolio with a 3D experience and accessible resume view. **[Live site](https://cerebuu.github.io/)** | JavaScript, Three.js, Vite |
+| **[Markdown to HTML Converter](https://github.com/cerebuu/markdown-project)** | Browser-based Markdown converter with HTML output and real-time preview. **[Live demo](https://cerebuu.github.io/markdown-project/)** | JavaScript, HTML, CSS |
 
-<br>
+## Technical skills
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cerebuu/cerebuu/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-</div>
+- **Languages:** JavaScript, TypeScript, Java, Python, HTML, CSS, SQL
+- **Frameworks and interfaces:** React, Tailwind CSS, Flask, Express, Java Swing
+- **Data and tools:** MySQL, H2, Git, GitHub, Figma
+- **Areas of interest:** Full-stack development, UI/UX, algorithms, AI integration, and software engineering
 
-<br>
+## Leadership and recognition
 
-### Pinned project highlights
-- **[Project Name](https://github.com/cerebuu/repo)** — one-line description of what it does and the stack used.
-- **[Project Name](https://github.com/cerebuu/repo)** — one-line description of what it does and the stack used.
-- **[Project Name](https://github.com/cerebuu/repo)** — one-line description of what it does and the stack used.
+- **Programming Champion** — PSITE Region XI IT Olympiad (2026)
+- **Lead** — Google Developer Groups on Campus, University of the Immaculate Conception (2026–2027)
+- **Fireside Chat Panelist** — DevFest Davao (2025)
+- **SM Foundation Scholar**
 
-<br>
+## Currently exploring
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cerebuu&label=Profile+views&color=58A6FF&style=flat" alt="Profile views" />
-</div>
+I'm focused on strengthening my software engineering foundations, building practical applications, and learning how algorithms and AI can improve real-world experiences.
+
+## Connect
+
+[Portfolio](https://cerebuu.github.io/) · [LinkedIn](https://www.linkedin.com/in/calebtingson/) · [GitHub](https://github.com/cerebuu)
+
+---
+
+*Thoughtful engineering. Useful software. Continuous learning.*
